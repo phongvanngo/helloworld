@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "novapo",
   "version": "1.0.0",
   "description": "JS Helloworld",
   "main": "index.js",
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/phongvanngo/helloworld/issues"
   },
-  "homepage": "https://github.com/phongvanngo/helloworld#readme"
+  "homepage": "https://github.com/phongvanngo/helloworld#readme",
+  "type": "module"
 }
